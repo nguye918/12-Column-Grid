@@ -1,0 +1,14 @@
+
+/* ========== Base Styles ========== */
+
+* {
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+}
+.row {
+  width: 95%;
+  margin: auto;
+}
